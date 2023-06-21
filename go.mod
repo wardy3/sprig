@@ -1,4 +1,4 @@
-module github.com/wardy/sprig
+module github.com/wardy3/sprig
 
 go 1.13
 
